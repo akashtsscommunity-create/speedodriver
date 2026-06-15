@@ -15,7 +15,7 @@ Future<void> main() async {
     ),
     anonKey: const String.fromEnvironment(
       'SUPABASE_ANON_KEY',
-      defaultValue: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJpZmN5d3Vva3pjeWtkbnJwbG5pIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODA5MzI4MzUsImV4cCI6MjA5NjUwODgzNX0.UppZyGNPUFxFxKa500M2FbKckQECJ3nDazKVKPvR7fg',
+      defaultValue: 'eyJhbGciOiJIUzIMiOiJzdXBhYmFzZSInJwbG5pOjE3ODA5MzI4MzUsImV4cCI6MjA5NjUwODgzNX0.UppZyGNPUFxFxKa500M2FbKckQECJ3nDazKVKPvR7fg',
     ),
   );
   /*{
